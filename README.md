@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 💬 Ask me about **Excel, Power BI, Google Data Studio, SQL**
+- 💬 Ask me about **Excel, Power BI, Google Data Studio, SQL e Python**
 
 - 📫 How to reach me **angelo.npeghim@gmail.com**
 
